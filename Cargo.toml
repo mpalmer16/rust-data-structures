@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "singly-linked-list",
+    "doubly-linked-list",
+    "binary-tree",
+]
