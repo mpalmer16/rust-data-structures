@@ -4,3 +4,4 @@ members = [
     "doubly-linked-list",
     "binary-tree",
 ]
+resolver = "2"
